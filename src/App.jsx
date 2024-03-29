@@ -4,9 +4,9 @@ function App() {
 
   return (
 		<div className='calculator-grid'>
-			<div className='output'>
-				<div className='previous-operrand'></div>
-				<div className='current-operrand'></div>
+			<div className="output">
+				<div className='previous-operand'></div>
+				<div className='current-operand'></div>
 			</div>
 
 			<button className='span-two'>AC</button>
